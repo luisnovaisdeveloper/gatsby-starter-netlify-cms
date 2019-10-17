@@ -101,6 +101,6 @@ pricing:
       items:
         - t
       plan: t
-      price: t
+      price: '100'
 ---
 
